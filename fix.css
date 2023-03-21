@@ -1,1 +1,30 @@
 /* Suerte :-) */
+#hero-content a {
+    background-color: rgb(255, 251, 0);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+#destinations p {
+    text-transform: uppercase;
+}
+
+#hero-content {
+    top: 15vw;
+}
+
+#hero {
+    background-size: cover;
+    position: relative;
+}
+
+.destination__spain:last-child {
+    color: red;
+}
+
+#destinations li:last-child {
+    border: 3px solid yellow;
+}
